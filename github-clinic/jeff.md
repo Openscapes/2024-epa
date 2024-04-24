@@ -6,6 +6,9 @@ Let's add a fun animated GIF:
 
 ![Animated GIF of "Beavis and Butthead" from Saturday Night Live](https://i.giphy.com/L1IfyeUjfROxEXEaf4.webp)
 
+
+This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
+
 ## Task 1: Commit an edit from the browser
 
 Let's edit this file by clicking the pencil icon at the top-right of the file. 
