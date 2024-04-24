@@ -60,7 +60,7 @@ You might add:
 
 **Julie Lowndes** (@jules32), Openscapes  
 **Stefanie Butland** (@stefaniebutland), Openscapes  
-**Gayle Hagler** EPA  
+**Gayle Hagler** (@ghaglerepa), EPA  
 **Jeff Hollister** (@jhollist), EPA  
 **Farnaz Nojavan** (@farnazn), EPA  
 **Mike McManus** EPA
