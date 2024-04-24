@@ -44,9 +44,9 @@ screensharing to learn and problem solve.
 - **Times:** 11:00 - 12:00 PT / 2:00 - 3:00 pm ET
 - **Location:** remotely, via Teams
 
-## Participating teams
+## Participating teams and individuals
 
-Some brief information about participating teams. Please add any edits
+Some brief information about participating teams and individual scientists in the cohort. Please add any edits
 directly (we’ll learn how in our GitHub Clinic!). Take some inspiration from [NOAA Fisheries Champions teams](https://github.com/Openscapes/2021-noaa-nmfs/blob/main/README.md). 
 
 You might add:
