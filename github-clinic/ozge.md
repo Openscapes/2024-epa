@@ -21,11 +21,21 @@ This file is written in Markdown, which formats text on the web. To see the Mark
 We can make words **bold** or *italic*.
 
 ### We can make headers.
+| Variable | Description |
+| :--- | :--- |
+| agency_cd | Agency providing the data (always USGS) |
+| site_no | Site identifier (always 1477050) |
+| spCond.mean | Daily mean specific conductivity, unfiltered, at 25 degrees C. (µS/cm) |
+| wt.mean | Daily mean water temperature, degrees C |
+| do.mgL.mean | Daily mean dissolved oxygen concentration, mg/L |
+| date | Date YYYY-MM-DD as R date |
 
-|  item  |  quantity  |  done  |
-|  banana  |  1  |  yes  |
-| tamales | 2 |yes|
-|cakes|1|yes|
+Table making trying... looks like headers need to be Capitalized and include space before and after
+| Item |  Quantity  |  Done  |
+| :--- | :--- | :--- |
+| banana  |  1  | yes |
+| tamales | 2 | yes |
+| cakes | 1 | yes |
 
 We can make lists – *note that lists need an empty line before list items!*
 
