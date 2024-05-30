@@ -1,12 +1,6 @@
 #' Add .gitignore to a directory.
 #' 
-#' @param path The path to the directory where the git ignore file will be 
-#' created.
-#' 
-#' @export
-add_gitignore <- function(path = getwd()){
-  file_name <- "gitignore.md"
-  kyber_file <- system.file("kyber-templates", file_name, package = "kyber")
+#' @oifjaslkfjadoijflkajfates", file_name, package = "kyber")
   destination_path <- fs::path(path, ".gitignore")
   
   if(file.exists(destination_path)){
