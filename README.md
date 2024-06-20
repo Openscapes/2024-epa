@@ -63,7 +63,7 @@ You might add:
 **Gayle Hagler** (@ghaglerepa), EPA  
 **Jeff Hollister** (@jhollist), EPA  
 **Farnaz Nojavan** (@farnazn), EPA  
-**Mike McManus** EPA
+**Mike McManus** (@mgm-cincy-epa)EPA
 
 ## More about Openscapes and the Champions program:
 
