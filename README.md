@@ -13,6 +13,8 @@ CEMM](https://www.epa.gov/aboutepa/about-center-environmental-measurement-and-mo
 
 <img align="right" src="horst-champions-trailhead.png" width="450">
 
+At the 2024 AGU conference, Gayle Hagler, Associate Director of the Center for Environmental Measurement & Modeling, U.S. EPA Office of Research and Development, gave a talk highlighting stories from EPA Openscapes Champions: [Cultivating open and collaborative data science at a U.S. EPA research center](https://drive.google.com/file/d/1yyzfAFgKfASomabzvg9qCCCt6fVFYu-k/) - Gayle Hagler, Jeffrey Hollister, Farnaz Nojavan, Michael McManus, Julie Lowndes, Stefanie Butland. December 13, 2024.
+
 ## Cohort Agendas
 
 We will meet as a Cohort via Zoom five times over two months for 1.5
